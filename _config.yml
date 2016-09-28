@@ -116,7 +116,7 @@ events:
     description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
     date: "20011-2013"
-    description: "Delaware State University <br> M.S. Computer Science"
+    description: "Delaware State University <br> M.S. Computer Science <small>	I spent two years in CIBiL - the Computational Intelligence and Bio(logical)informatics Lab working on Hybridization of Multi-Objective Evolutionary Algorithms and Fuzzy Control for automated construction, tuning, and analysis of neuronal models.</small> "
   - image: "/img/timeline/baracktocat.jpg"
     date: "2007-2011"
     description: "Delaware State University <br> B.S. Computer Science"
