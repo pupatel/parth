@@ -111,6 +111,7 @@ syntax-highlight: True
 ############
 
 events:
+
   - image: "/img/timeline/UD.png"
     date: "2013 - Present"
     description: "University of Delaware <br> Ph.D. Candidate <br> <small> My research focus has emerged to bring the power of machine learning to the Meyers lab, enhancing our current approaches and analyses, and enabling new analyses. The long-term impact of my work will be in both bioinformatics and in plant reproductive biology, with findings important to improve yields in maize and rice, critically important crops in global agriculture.</small>"
@@ -120,10 +121,16 @@ events:
   - image: "/img/timeline/DSU-Logo.png"
     date: "2007-2011"
     description: "Delaware State University <br> B.S. Computer Science"
+    
+  - image: "/img/timeline/DSU-Logo.png"
+    date: ""
+    description: "<a href="/CV_V11.pdf/">Curriculum vitae</a>"
+
 
 # First image of the Timeline
 
-timeline-img: "<a  href= "/CV_V11.pdf"> <img src="/img/timeline/default.png""
+timeline-img: "/img/timeline/default.png"
+
 
 ###########
 # Contact #
