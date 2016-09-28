@@ -124,7 +124,7 @@ events:
     
   - image: "/img/timeline/DSU-Logo.png"
     date: ""
-    description: "<a href="/CV_V11.pdf/">Curriculum vitae</a>"
+    description: "Curriculum vitae"
 
 
 # First image of the Timeline
