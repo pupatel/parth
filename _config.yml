@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Parth Patel"
 title: "{ Parth Patel }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Website of Parth Patel."
+keywords: "patel, parth, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -178,7 +178,7 @@ keybase-in-footer: False
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  Blog: 'research'
   Timeline: 'timeline'
   Contact: 'contact'
 
