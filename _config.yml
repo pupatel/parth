@@ -49,14 +49,13 @@ background-img: "../img/plant-background.jpg"
 
 dynamic-typing: True
 shuffle: True # Shuffle the lines.
-loop: True
+loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "To succeed in your mission, you must have single-minded devotion to your goal. - A. P. J. Abdul Kalam"
-  - text: "What one man calls God, another calls the laws of physics.- Nikola Tesla"
 
 me-img: "/img/jetpacktocat.png"
 
