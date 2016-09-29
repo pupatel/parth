@@ -121,7 +121,7 @@ events:
   - image: "/img/timeline/DSU-Logo.png"
     date: "2007-2011"
     description: "Delaware State University <br> B.S. Computer Science"
-  - image: <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc"> <img src="/img/timeline/CV.jpg"alt="HTML tutorial" style="width:42px;height:42px;border:0;"> </a>
+  - image: "/img/timeline/CV.jpg"
     date: ""
     description: <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc" target="_blank">[Curriculum vitae]</a>
 
