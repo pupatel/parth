@@ -112,7 +112,7 @@ syntax-highlight: True
 
 events:
 
-  - image: "/img/timeline/UD.png"
+  - image: "/img/timeline/UD.gif"
     date: "2013 - Present"
     description: "University of Delaware <br> Ph.D. Candidate <br> <small> My research focus has emerged to bring the power of machine learning to the Meyers lab, enhancing our current approaches and analyses, and enabling new analyses. The long-term impact of my work will be in both bioinformatics and in plant reproductive biology, with findings important to improve yields in maize and rice, critically important crops in global agriculture.</small>"
   - image: "/img/timeline/DSU-Logo.png"
