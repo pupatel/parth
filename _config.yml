@@ -120,7 +120,8 @@ events:
   - image: "/img/timeline/DSU-Logo.png"
     date: "2007-2011"
     description: "Delaware State University <br> B.S. Computer Science"
-  - image:{% include image.html file="/img/timeline/CV.jpg" url="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc" alt="CV" %"}    #![my photo]({{ https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc }}/img/timeline/CV.jpg)         # "/img/timeline/CV.jpg"
+  - image:{% include image.html file="/img/timeline/CV.jpg" url="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc" alt="CV" %"}   
+  #![my photo]({{ https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc }}/img/timeline/CV.jpg)"/img/timeline/CV.jpg"
     date: ""
     description: <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc" target="_blank">[Curriculum vitae]</a>
 
