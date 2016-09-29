@@ -123,7 +123,7 @@ events:
     description: "Delaware State University <br> B.S. Computer Science"
   - image: "/img/timeline/DSU-Logo.png"
     date: ""
-    description: <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc/" target="_blank">[Curriculum vitae]</a>
+    description: <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc" target="_blank">[Curriculum vitae]</a>
 
 
 # First image of the Timeline
