@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "To succeed in your mission, you must have single-minded devotion to your goal. - A. P. J. Abdul Kalam"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/author.jpg"
 
 ##############################
 # Color the browser elements #
