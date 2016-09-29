@@ -121,10 +121,9 @@ events:
   - image: "/img/timeline/DSU-Logo.png"
     date: "2007-2011"
     description: "Delaware State University <br> B.S. Computer Science"
-    
   - image: "/img/timeline/DSU-Logo.png"
     date: ""
-    description: "<a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc/" target="_blank">Curriculum vitae</a>"
+    description: <a href="https://www.quora.com/GitHub/What-is-the-story-behind-GitHub%E2%80%99s-octocat-mascot" target="_blank">[via]</a>
 
 
 # First image of the Timeline
