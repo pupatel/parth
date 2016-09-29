@@ -113,13 +113,13 @@ events:
 
   - image: "/img/timeline/UD.gif"
     date: "2013 - Present"
-    description: "</b>University of Delaware <br> Ph.D. Candidate</b> <br> <small> My research focus has emerged to bring the power of machine learning to the Meyers lab, enhancing our current approaches and analyses, and enabling new analyses. The long-term impact of my work will be in both bioinformatics and in plant reproductive biology, with findings important to improve yields in maize and rice, critically important crops in global agriculture.</small>"
+    description: "<b> University of Delaware <br> Ph.D. Candidate</b> <br> <small> My research focus has emerged to bring the power of machine learning to the Meyers lab, enhancing our current approaches and analyses, and enabling new analyses. The long-term impact of my work will be in both bioinformatics and in plant reproductive biology, with findings important to improve yields in maize and rice, critically important crops in global agriculture.</small>"
   - image: "/img/timeline/DSU-Logo.png"
     date: "2011-2013"
     description: "<b> Delaware State University <br> M.S. Computer Science</b> <br> <small>	I spent two years as reasearch assistant in Dr. Tomasz Smolikski's lab working on Hybridization of Multi-Objective Evolutionary Algorithms and Fuzzy Control for automated construction, tuning, and analysis of neuronal models.</small> "
   - image: "/img/timeline/DSU-Logo.png"
     date: "2007-2011"
-    description: "</b>Delaware State University <br> B.S. Computer Science </b>"
+    description: "<b> Delaware State University <br> B.S. Computer Science </b>"
   - image: "/img/timeline/CV.jpg"
     date: ""
     description: <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc" target="_blank">[Curriculum vitae]</a>
