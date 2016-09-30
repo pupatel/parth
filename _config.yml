@@ -101,7 +101,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "pupatel"
 
 syntax-highlight: True
 
@@ -122,7 +122,7 @@ events:
     description: "<b> Delaware State University </b> <br> <b>B.S. Computer Science</b> "
   - image: "/img/timeline/CV.jpg"
     date: ""
-    description: <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc" target="_blank">[Curriculum vitae]</a>
+    description: <b> <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc" target="_blank">[Curriculum vitae]</a> </b>
 
 
 # First image of the Timeline
