@@ -121,9 +121,11 @@ events:
     date: "2007-2011"
     description: "<b> Delaware State University </b> <br> <b>B.S. Computer Science</b>"
 <html>
+<body>
 <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc">
-    <img src="/img/timeline/CV.jpg"  target="_blank" alt="CV Details">
+    <img src="/img/timeline/CV.jpg"  target="_blank">
 </a>
+</body>
 </html>
 
 # First image of the Timeline
