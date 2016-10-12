@@ -119,11 +119,10 @@ events:
     description: "<b> Delaware State University <br> M.S. Computer Science </b> <br> <small>	I spent two years as reasearch assistant in Dr. Tomasz Smolikski's lab working on Hybridization of Multi-Objective Evolutionary Algorithms and Fuzzy Control for automated construction, tuning, and analysis of neuronal models.</small> "
   - image: "/img/timeline/DSU-Logo.png"
     date: "2007-2011"
-    description: "<b> Delaware State University </b> <br> <b>B.S. Computer Science</b> "
-  - image: "/img/timeline/CV.jpg"
-    date: ""
-    description: <b> <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc" target="_blank">[Curriculum vitae]</a> </b>
-
+    description: "<b> Delaware State University </b> <br> <b>B.S. Computer Science</b>"
+  - <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc">
+    <img src="/img/timeline/CV.jpg"  target="_blank" alt="CV Details">
+    </a>
 
 # First image of the Timeline
 
