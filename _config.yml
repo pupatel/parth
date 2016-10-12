@@ -123,7 +123,7 @@ events:
 <html>
 <body>
 <a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc">
-    <img src="/img/timeline/CV.jpg"  target="_blank">
+    <img src="/img/timeline/CV.jpg"  alt="hi" class"inline"/>
 </a>
 </body>
 </html>
