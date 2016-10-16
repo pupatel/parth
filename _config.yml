@@ -121,7 +121,7 @@ events:
     date: "2007-2011"
     description: "<b> Delaware State University </b> <br> <b>B.S. Computer Science</b>"
   - handlers:
-    url: "https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc"
+    url: https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc
     upload: "/img/timeline/CV.jpg"
     
 # First image of the Timeline
