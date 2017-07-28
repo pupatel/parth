@@ -124,7 +124,7 @@ events:
   - date: " "
   - description:"<b>Curriculum vitae</b>"
   #- description: "<a href="https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc" target="_blank"> <br>[Curriculum vitae]<br> </a>"
-  - url: "https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc"  
+  #- url: "https://drive.google.com/open?id=0BzZRgISY9Di0a1pxZV9iZWg5RXc"  
 # First image of the Timeline
 
 timeline-img: "/img/author.jpeg"
