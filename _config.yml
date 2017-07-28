@@ -120,6 +120,8 @@ events:
   - image: "/img/timeline/DSU-Logo.png"
     date: "2007-2011"
     description: "<b> Delaware State University </b> <br> <b>B.S. Computer Science</b>"
+    - image: "/img/timeline/CV.jpg"
+    description: "<b> CV </b> <br> <b>B.S. Computer Science</b>"
       
 # First image of the Timeline
 
