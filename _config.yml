@@ -113,7 +113,7 @@ events:
 
   - image: "/img/timeline/UD.gif"
     date: "2013 - 2018"
-    description: "<b> University of Delaware <br> Ph.D. </b> <br> <small> My research focus has emerged to bring the power of machine learning to the Meyers lab, enhancing our current approaches and analyses, and enabling new analyses. The long-term impact of my work will be in both bioinformatics and in plant reproductive biology, with findings important to improve yields in maize and rice, critically important crops in global agriculture.</small> "
+    description: "<b> University of Delaware <br> Ph.D. Bioinformatics and Systems Biology </b> <br> <small> My research focus has emerged to bring the power of machine learning to the Meyers lab, enhancing our current approaches and analyses, and enabling new analyses. The long-term impact of my work will be in both bioinformatics and in plant reproductive biology, with findings important to improve yields in maize and rice, critically important crops in global agriculture.</small> "
   - image: "/img/timeline/internship.png" #"/img/timeline/Monsanto.png"
     date: "May 2017 - Aug 2017"
     description: "<b> Monsanto <br> Cloud Infrastrucutre Developer Intern </b> <br> <small> I spent summer 2017 with Monsanto's Genome and Data Science team in St.Louis on various projects overlapping the cutting edge  AWS, machine learning, and the 3rd generation sequencing technologies (PacBio).</small> "
